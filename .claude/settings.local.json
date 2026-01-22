@@ -28,7 +28,12 @@
       "Bash(node:*)",
       "Bash(wsl:*)",
       "Bash(npx.cmd vercel:*)",
-      "Bash(dir:*)"
+      "Bash(dir:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nMigrate to Cloudflare Pages with D1 and R2\n\n- Replace better-sqlite3 with Cloudflare D1 \\(async database\\)\n- Replace local file storage with Cloudflare R2\n- Replace NextAuth with custom edge-compatible auth using jose\n- Add edge runtime to all API routes\n- Convert server components to client components with API fetching\n- Add wrangler.toml configuration for D1 and R2 bindings\n- Add D1 schema and seed data scripts\n- Update all database operations to async/await pattern\n- Add custom session management with JWT\n\nInfrastructure:\n- D1 Database: galamsey-db \\(75c89307-ff7e-45c2-b9b5-df7a38fc8977\\)\n- R2 Bucket: galamsey-uploads\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(npx vercel build)",
+      "Bash(npx @cloudflare/next-on-pages)",
+      "Bash(git commit:*)",
+      "Skill(frontend-design)"
     ]
   }
 }
