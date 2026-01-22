@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <!-- Background -->
+  <rect width="512" height="512" rx="64" fill="#006B3F"/>
+
+  <!-- Ghana colors stripe pattern -->
+  <rect y="0" width="512" height="170.67" fill="#CE1126"/>
+  <rect y="170.67" width="512" height="170.67" fill="#FCD116"/>
+  <rect y="341.33" width="512" height="170.67" fill="#006B3F"/>
+
+  <!-- Center circle with icon -->
+  <circle cx="256" cy="256" r="140" fill="white"/>
+
+  <!-- Map pin icon -->
+  <path d="M256 120c-44.2 0-80 35.8-80 80 0 60 80 152 80 152s80-92 80-152c0-44.2-35.8-80-80-80zm0 108c-15.5 0-28-12.5-28-28s12.5-28 28-28 28 12.5 28 28-12.5 28-28 28z" fill="#006B3F"/>
+
+  <!-- Black star (Ghana flag symbol) -->
+  <path d="M256 380l-8.5-26.1-27.5 0 22.3-16.2-8.5-26.1 22.2 16.2 22.2-16.2-8.5 26.1 22.3 16.2-27.5 0z" fill="#000"/>
+</svg>
